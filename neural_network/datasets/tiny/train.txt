@@ -1,0 +1,7 @@
+num, size
+700, hundreds
+20, tens
+200, hundreds
+10, tens
+350, hundreds
+30, tens

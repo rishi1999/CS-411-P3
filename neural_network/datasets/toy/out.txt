@@ -1,7 +1,7 @@
+pos
 neg
 neg
-neg
-neg
-neg
-neg
+pos
+pos
+pos
 neg
